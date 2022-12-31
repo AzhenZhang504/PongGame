@@ -28,8 +28,8 @@ public class Pong extends JFrame {
           }
  
         });
- 
-    }
-
- 
+	}
 }
+ 
+ 
+	
